@@ -1,0 +1,7 @@
+com\Pages\RegisterPage.class
+com\Base\BasePage.class
+com\Pages\AccountOverviewPage.class
+com\Pages\AccountDetailsPage.class
+com\Pages\TransferFundsPage.class
+com\Pages\NewAccountPage.class
+com\Tests\RegisterPageTest.class
